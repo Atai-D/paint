@@ -1,0 +1,11 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/Users/ataidzhirgalbaev/CLionProjects/practice-6-Atai-D/build/Debug/generators/CMakePresets.json",
+        "/Users/ataidzhirgalbaev/CLionProjects/practice-6-Atai-D/cmake-build-debug/conan/build/Debug/generators/CMakePresets.json",
+        "/Users/ataidzhirgalbaev/CLionProjects/paint/cmake-build-debug/conan/build/Debug/generators/CMakePresets.json"
+    ]
+}

@@ -1,0 +1,17 @@
+[requires]
+qt/6.6.2
+
+[options]
+qt/*:shared=True
+qt/*:with_sqlite3=False
+qt/*:with_mysql=False
+qt/*:with_pq=False
+qt/*:with_odbc=False
+*:with_glib=False
+
+[generators]
+CMakeToolchain
+CMakeDeps
+
+[layout]
+cmake_layout
